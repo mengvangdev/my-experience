@@ -1,3 +1,3 @@
 ## Andong National University
 ### Web page
-[firebase link: ](https://nursedepartmentheadertest.firebaseapp.com/)
+<a href="https://nursedepartmentheadertest.firebaseapp.com/" target="_blank">Menu</a>
